@@ -1,0 +1,2 @@
+# Pewarisan
+TugasPewarisan
